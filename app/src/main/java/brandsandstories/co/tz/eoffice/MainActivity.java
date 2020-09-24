@@ -39,7 +39,7 @@ public class MainActivity extends Activity {
                             swipeRefresh.setRefreshing(false);
                         }
                     }
-                }, 2000);
+                }, 1000);
             }
         });
 
